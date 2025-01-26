@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on a company called Akkodis as a Java Software Developer developing applications focused on cyberdefense.<br><br>I´m eager to learn new things in the environment of Java and other languages 
+
+👨‍💻 I'm currently working at **Akkodis** as a **Java Software Developer**, focusing on building applications in the field of **cyberdefense**. 🛡️✨<br><br>  
+🚀 I'm **eager to learn** new things, especially in the world of **Java** ☕ and other programming languages! 🌐<br><br>  
+🎯 Always aiming to improve, grow, and take on exciting challenges. 🚀✨  
 
 
 ## 🌐 Socials:
